@@ -1,5 +1,5 @@
+import ItemsTable from "../../components/itemsTable.jsx";
+
 export default function ListItems() {
-  return (
-		<h2>Todos os itens</h2>
-	)
+  return <ItemsTable />
 }
